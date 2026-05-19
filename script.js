@@ -83,7 +83,7 @@ add.addEventListener("click", () => {
   // créer une balise span qui contient une icon de corbeille
 
   let img = document.createElement("img");
-  img.src = "/Pictures/ToDoList Pics/delete_24dp_FA1D04.svg";
+  img.src = "./ToDoListPics/delete_24dp_FA1D04.svg";
   img.style.cursor = "pointer";
 
   //   créer un input type checkbox
@@ -116,7 +116,7 @@ add.addEventListener("click", () => {
     Date.classList.add("Date");
 
     let img2 = document.createElement("img");
-    img2.src = "/Pictures/ToDoList Pics/delete_24dp_FA1D04.svg";
+    img2.src = "./ToDoListPics/delete_24dp_FA1D04.svg";
     img2.style.cursor = "pointer";
 
     Date.appendChild(img2);
