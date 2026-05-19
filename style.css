@@ -186,7 +186,7 @@ header p img {
   background-color: #e66a5c;
 }
 .checkbox::before {
-  content: url(/Pictures/Icons/check_16dp_F2F2F2F2_FILL0_wght400_GRAD0_opsz20.svg);
+  content: url(check_16dp_F2F2F2F2_FILL0_wght400_GRAD0_opsz20.svg);
   display: grid;
   place-content: center;
   transform: scale(0);
