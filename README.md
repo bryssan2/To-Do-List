@@ -2,6 +2,8 @@
 
 Liste de tâches interactive construite en HTML, CSS et JavaScript vanilla.
 
+Lien vers le site : to-do-list-mauve-five-62.vercel.app
+
 ##  Fonctionnalités
 - Ajouter et supprimer des tâches
 - Marquer une tâche comme complétée
